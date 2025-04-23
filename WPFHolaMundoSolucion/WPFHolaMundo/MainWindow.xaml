@@ -1,0 +1,77 @@
+﻿<Window x:Class="WPFHolaMundo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculadora"
+        Height="714" Width="459"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="FontSize" Value="48"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Ellipse Fill="{TemplateBinding Background}"/>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="10">
+            <Label x:Name="lb_resultadoAnterior" Content="" Foreground="#FF6A6769" FontSize="30" HorizontalContentAlignment="Right"/>
+            <Label x:Name="lb_resultado" Content="" Foreground="White" FontSize="80" HorizontalContentAlignment="Right"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="AC" Grid.Row="0" Grid.Column="2" Background="#FF515154" Click="BotonLimpiar_Click"/>
+            <Button Content="÷" Grid.Row="0" Grid.Column="3" Background="#FFFE940D" Click="Operacion_Click"/>
+
+            <Button Content="7" Grid.Row="1" Grid.Column="0" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="8" Grid.Row="1" Grid.Column="1" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="9" Grid.Row="1" Grid.Column="2" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="×" Grid.Row="1" Grid.Column="3" Background="#FFFE940D" Click="Operacion_Click"/>
+
+            <Button Content="4" Grid.Row="2" Grid.Column="0" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="5" Grid.Row="2" Grid.Column="1" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="6" Grid.Row="2" Grid.Column="2" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="−" Grid.Row="2" Grid.Column="3" Background="#FFFE940D" Click="Operacion_Click"/>
+
+            <Button Content="1" Grid.Row="3" Grid.Column="0" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="2" Grid.Row="3" Grid.Column="1" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="3" Grid.Row="3" Grid.Column="2" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="+" Grid.Row="3" Grid.Column="3" Background="#FFFE940D" Click="Operacion_Click"/>
+
+            <Button Content="0" Grid.Row="4" Grid.Column="1" Background="#FF232325" Click="BotonNumero_Click"/>
+            <Button Content="=" Grid.Row="4" Grid.Column="3" Background="#FFFE940D" Click="CalcularResultado_Click" Height="80" Margin="10,10,10,0" VerticalAlignment="Top"/>
+        </Grid>
+    </Grid>
+</Window>

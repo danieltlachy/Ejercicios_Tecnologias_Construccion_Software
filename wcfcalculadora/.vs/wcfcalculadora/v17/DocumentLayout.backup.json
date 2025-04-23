@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF2AF78-ACA6-491C-8BEE-65E765BD9E95}|wcfcalculadora.csproj|c:\\users\\danie\\onedrive - universidad veracruzana\\documentos uv\\6to semestre\\tecnologias para la construccion de software\\2do parcial\\practicas\\wcfcalculadora\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF2AF78-ACA6-491C-8BEE-65E765BD9E95}|wcfcalculadora.csproj|solutionrelative:service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF2AF78-ACA6-491C-8BEE-65E765BD9E95}|wcfcalculadora.csproj|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF2AF78-ACA6-491C-8BEE-65E765BD9E95}|wcfcalculadora.csproj|solutionrelative:IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\IService1.cs",
+              "RelativeDocumentMoniker": "IService1.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\IService1.cs",
+              "RelativeToolTip": "IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:27:15.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Service1.svc.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfcalculadora\\Service1.svc.cs",
+              "RelativeToolTip": "Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:26:09.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

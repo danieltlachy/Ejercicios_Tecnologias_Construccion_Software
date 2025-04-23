@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\POCO\\Alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WcfControlEscolar\\POCO\\Alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WcfControlEscolar\\IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\Service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WcfControlEscolar\\Service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfControlEscolar\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfControlEscolar\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\POCO\\Alumno.cs",
+              "RelativeDocumentMoniker": "WcfControlEscolar\\POCO\\Alumno.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\POCO\\Alumno.cs",
+              "RelativeToolTip": "WcfControlEscolar\\POCO\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:24:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControlEscolar\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfControlEscolar\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:54:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfControlEscolar\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WpfControlEscolar\\MainWindow.xaml",
+              "RelativeToolTip": "WpfControlEscolar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T21:54:27.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WcfControlEscolar\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\Service1.svc.cs",
+              "RelativeToolTip": "WcfControlEscolar\\Service1.svc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:33:39.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\IService1.cs",
+              "RelativeDocumentMoniker": "WcfControlEscolar\\IService1.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\ControlEscolar\\WcfControlEscolar\\IService1.cs",
+              "RelativeToolTip": "WcfControlEscolar\\IService1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:34:57.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

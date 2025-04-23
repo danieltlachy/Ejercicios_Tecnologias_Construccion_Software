@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfControlEscolar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfControlEscolar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label FontWeight="Bold" Content="Consultar alumnos por promedio&#xD;&#xA;" HorizontalAlignment="Left" Margin="136,51,0,0" VerticalAlignment="Top" Height="34"/>
+        <TextBox x:Name="TbPromedio" HorizontalAlignment="Left" Margin="136,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label FontSize="10" Content="Ingresa el promedio del alumno" HorizontalAlignment="Left" Margin="136,85,0,0" VerticalAlignment="Top" Height="29"/>
+        <Button Content="Consultar" HorizontalAlignment="Left" Margin="278,112,0,0" VerticalAlignment="Top" Click="Click_Consultar"/>
+        <Label FontSize="10" Content="Alumnos encontrados" HorizontalAlignment="Left" Margin="136,157,0,0" VerticalAlignment="Top" Height="29"/>
+        <ComboBox x:Name="CbAlumnos" HorizontalAlignment="Left" Margin="278,157,0,0" VerticalAlignment="Top" Width="186"/>
+
+    </Grid>
+</Window>

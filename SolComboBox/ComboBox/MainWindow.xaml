@@ -1,0 +1,70 @@
+﻿<Window x:Class="ComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBox"
+        mc:Ignorable="d"
+        Title="Ejercicio ComboBox" Height="450" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Personaliza tu equipo de cómputo" HorizontalAlignment="Left" Margin="131,22,0,0" VerticalAlignment="Top" FontFamily="Courier New" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Sistema Operativo (predefinido):" HorizontalAlignment="Left" Margin="34,75,0,0" VerticalAlignment="Top" FontFamily="Dubai" FontSize="16"/>
+        <ComboBox x:Name="cmbSistema" HorizontalAlignment="Left" Margin="301,83,0,0" VerticalAlignment="Top" Width="254">
+            <ComboBoxItem Content="Windows" />
+            <ComboBoxItem Content="Linux" />
+            <ComboBoxItem Content="Windows" />
+        </ComboBox>
+        <Label Content="Procesador (lista - codigo):" HorizontalAlignment="Left" Margin="34,121,0,0" VerticalAlignment="Top" FontFamily="Dubai" FontSize="16"/>
+        <ComboBox x:Name="cmbProcesador" HorizontalAlignment="Left" Margin="301,129,0,0" VerticalAlignment="Top" Width="254"/>
+        <Label Content="Marca (diseño personalizado):" HorizontalAlignment="Left" Margin="34,174,0,0" VerticalAlignment="Top" FontFamily="Dubai" FontSize="16"/>
+        <ComboBox x:Name="cmbMarca"  HorizontalAlignment="Left" Margin="301,182,0,0" VerticalAlignment="Top" Width="254">
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/acer.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">acer</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/apple.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">Apple</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/hp.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">HP</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/huawei.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">Huawei</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/lenovo.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">Lenovo</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Resources/samsung.png" />
+                    <TextBlock Margin="12, 0, 0, 0" Foreground="DarkGreen" FontWeight="Bold" VerticalAlignment="Center">Samsung</TextBlock>
+                </StackPanel>
+            </ComboBoxItem>
+        </ComboBox>
+        <Label Content="RAM (dinámico):" HorizontalAlignment="Left" Margin="34,235,0,0" VerticalAlignment="Top" FontFamily="Dubai" FontSize="16"/>
+        <ComboBox x:Name="cmbRAM" HorizontalAlignment="Left" Margin="301,243,0,0" VerticalAlignment="Top" Width="254"/>
+        <Label Content="Agrega la RAM de tu preferencia:" HorizontalAlignment="Left" Margin="34,301,0,0" VerticalAlignment="Top" FontFamily="Dubai" FontSize="13"/>
+        <TextBox x:Name="tbRAM"  HorizontalAlignment="Left" Margin="39,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="81"/>
+        <Button x:Name="btnClicAgregarRAM"  HorizontalAlignment="Left" Margin="131,340,0,0" VerticalAlignment="Top" Height="30" BorderBrush="{x:Null}" Click="btnClicAgregarRAM_Click" Width="29">
+            <Button.Background>
+                <ImageBrush ImageSource="/Resources/plus.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnConfiguracion" Content="Ver Configuración" HorizontalAlignment="Left" Margin="431,358,0,0" VerticalAlignment="Top" Width="124" Background="DarkGreen" Foreground="White" FontFamily="Dubai" BorderBrush="{x:Null}" Height="30" Click="btnConfiguracion_Click"/>
+        <Label x:Name="lblErrorRAM" Content="" HorizontalAlignment="Left" Margin="34,378,0,0" VerticalAlignment="Top" Foreground="Red" IsEnabled="False"/>
+    </Grid>
+</Window>

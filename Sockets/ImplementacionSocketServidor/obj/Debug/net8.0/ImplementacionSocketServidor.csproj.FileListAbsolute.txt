@@ -1,0 +1,56 @@
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.exe
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.deps.json
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.runtimeconfig.json
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfoInputs.cache
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfo.cs
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\refint\ImplementacionSocketServidor.dll
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.genruntimeconfig.cache
+C:\Users\Miguel Caixba\Desktop\Tecnologías para la Construcción de Software\VS\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ref\ImplementacionSocketServidor.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.exe
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.deps.json
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\refint\ImplementacionSocketServidor.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ref\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.exe
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.deps.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.runtimeconfig.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfo.cs
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\refint\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.genruntimeconfig.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ref\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.exe
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.deps.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.runtimeconfig.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\bin\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.AssemblyInfo.cs
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\refint\ImplementacionSocketServidor.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ImplementacionSocketServidor.genruntimeconfig.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios1rParcial\Sockets\ImplementacionSocketServidor\obj\Debug\net8.0\ref\ImplementacionSocketServidor.dll

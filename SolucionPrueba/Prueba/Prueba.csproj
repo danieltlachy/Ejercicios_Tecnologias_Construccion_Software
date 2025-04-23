@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="add_circle.png" />
+    <None Remove="apple.png" />
+    <None Remove="dell.png" />
+    <None Remove="hp.png" />
+    <None Remove="lenovo.png" />
+    <None Remove="microsoft.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="add_circle.png" />
+    <Resource Include="apple.png" />
+    <Resource Include="dell.png" />
+    <Resource Include="hp.png" />
+    <Resource Include="lenovo.png" />
+    <Resource Include="microsoft.png" />
+  </ItemGroup>
+
+</Project>

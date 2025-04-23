@@ -1,0 +1,7 @@
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\bin\WcfControlEscolar.dll.config
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\bin\WcfControlEscolar.dll
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\bin\WcfControlEscolar.pdb
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\obj\Debug\WcfControlEscolar.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\obj\Debug\WcfControlEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\obj\Debug\WcfControlEscolar.dll
+C:\Users\Cesar\Documents\AplicacionesCS\ControlEscolar\WcfControlEscolar\obj\Debug\WcfControlEscolar.pdb

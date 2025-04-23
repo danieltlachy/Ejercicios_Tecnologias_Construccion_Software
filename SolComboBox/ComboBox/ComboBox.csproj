@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\acer.png" />
+    <None Remove="Resources\apple.png" />
+    <None Remove="Resources\hp.png" />
+    <None Remove="Resources\huawei.png" />
+    <None Remove="Resources\lenovo.png" />
+    <None Remove="Resources\plus.png" />
+    <None Remove="Resources\samsung.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\acer.png" />
+    <Resource Include="Resources\hp.png" />
+    <Resource Include="Resources\huawei.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\apple.png" />
+    <Resource Include="Resources\lenovo.png" />
+    <Resource Include="Resources\plus.png" />
+    <Resource Include="Resources\samsung.png" />
+  </ItemGroup>
+
+</Project>

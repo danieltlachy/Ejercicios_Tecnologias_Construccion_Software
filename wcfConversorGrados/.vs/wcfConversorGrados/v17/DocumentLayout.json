@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\Service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IService1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\IService1.cs",
+              "RelativeDocumentMoniker": "IService1.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\IService1.cs",
+              "RelativeToolTip": "IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:59:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Service1.svc.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive - Universidad Veracruzana\\Documentos UV\\6to Semestre\\Tecnologias para la Construccion de Software\\2do Parcial\\practicas\\wcfConversorGrados\\Service1.svc.cs",
+              "RelativeToolTip": "Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:59:03.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

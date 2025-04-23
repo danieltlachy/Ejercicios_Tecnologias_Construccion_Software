@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\bin\wcfcalculadora.dll.config
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\bin\wcfcalculadora.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\bin\wcfcalculadora.pdb
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\obj\Debug\wcfcalculadora.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\obj\Debug\wcfcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\obj\Debug\wcfcalculadora.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfnutricion\wcfcalculadora\obj\Debug\wcfcalculadora.pdb

@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\bin\wcfConversorGrados.dll.config
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\bin\wcfConversorGrados.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\bin\wcfConversorGrados.pdb
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\obj\Debug\wcfConversorGrados.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\obj\Debug\wcfConversorGrados.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\obj\Debug\wcfConversorGrados.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\2do Parcial\practicas\wcfConversorGrados\obj\Debug\wcfConversorGrados.pdb

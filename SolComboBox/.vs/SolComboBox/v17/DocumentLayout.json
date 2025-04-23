@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\Documentos UV\\8vo_Semestre\\Tecno\\Ejercicios\\SolComboBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1E698-371A-4A9D-AF44-D056D404181C}|ComboBox\\ComboBox.csproj|c:\\users\\danie\\documents\\documentos uv\\8vo_semestre\\tecno\\ejercicios\\solcombobox\\combobox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D1E698-371A-4A9D-AF44-D056D404181C}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1E698-371A-4A9D-AF44-D056D404181C}|ComboBox\\ComboBox.csproj|c:\\users\\danie\\documents\\documentos uv\\8vo_semestre\\tecno\\ejercicios\\solcombobox\\combobox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83D1E698-371A-4A9D-AF44-D056D404181C}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Documentos UV\\8vo_Semestre\\Tecno\\Ejercicios\\SolComboBox\\ComboBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ComboBox\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Documentos UV\\8vo_Semestre\\Tecno\\Ejercicios\\SolComboBox\\ComboBox\\MainWindow.xaml",
+              "RelativeToolTip": "ComboBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T03:24:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Documentos UV\\8vo_Semestre\\Tecno\\Ejercicios\\SolComboBox\\ComboBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ComboBox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Documentos UV\\8vo_Semestre\\Tecno\\Ejercicios\\SolComboBox\\ComboBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ComboBox\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:47:29.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

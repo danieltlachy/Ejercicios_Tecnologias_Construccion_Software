@@ -1,0 +1,40 @@
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.exe
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.deps.json
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.runtimeconfig.json
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.dll
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.pdb
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba_MarkupCompile.cache
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba_MarkupCompile.lref
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.g.resources
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.AssemblyInfoInputs.cache
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.AssemblyInfo.cs
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.dll
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\refint\Prueba.dll
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.pdb
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.genruntimeconfig.cache
+C:\Users\alesi\source\repos\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\ref\Prueba.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.exe
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.deps.json
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.runtimeconfig.json
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\bin\Debug\net8.0-windows\Prueba.pdb
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba_MarkupCompile.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba_MarkupCompile.lref
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.g.resources
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.AssemblyInfo.cs
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\refint\Prueba.dll
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.pdb
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\Prueba.genruntimeconfig.cache
+C:\Users\danie\OneDrive - Universidad Veracruzana\Documentos UV\6to Semestre\Tecnologias para la Construccion de Software\1r Parcial\practicas\SolucionPrueba\Prueba\obj\Debug\net8.0-windows\ref\Prueba.dll
