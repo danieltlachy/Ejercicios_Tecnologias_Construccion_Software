@@ -1,0 +1,42 @@
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.exe
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.deps.json
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.runtimeconfig.json
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\refint\ImplementacionSocketCliente.dll
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Escritorio\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ref\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.exe
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.deps.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.runtimeconfig.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfo.cs
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\refint\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.genruntimeconfig.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ref\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.exe
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.deps.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.runtimeconfig.json
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\bin\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.AssemblyInfo.cs
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\refint\ImplementacionSocketCliente.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ImplementacionSocketCliente.genruntimeconfig.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\Sockets\ImplementacionSocketCliente\obj\Debug\net8.0\ref\ImplementacionSocketCliente.dll

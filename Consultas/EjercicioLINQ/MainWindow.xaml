@@ -1,0 +1,35 @@
+﻿<Window x:Class="EjercicioLINQ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EjercicioLINQ"
+        mc:Ignorable="d"
+        Title="Ejemplo LINQ" Height="450" Width="800">
+    <Grid>
+        <Label Content="Alumnos registrados en la Universidad:" HorizontalAlignment="Left" Margin="38,36,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Courier New" FontWeight="Bold"/>
+        <TextBox x:Name="tbFiltro" HorizontalAlignment="Left" Margin="38,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="446" FontFamily="Arial" FontSize="20"/>
+        <Label Content="Filtrar alumno por carrerra:" HorizontalAlignment="Left" Margin="38,74,0,0" VerticalAlignment="Top" FontFamily="Courier New" FontSize="16"/>
+        <Button Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="502,110,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="16" Width="77" Click="btnBuscar_Click"/>
+        <ListView x:Name="listViewAlumnos" Margin="38,160,38,20">
+            <ListView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="18" Foreground="DarkBlue" Margin="0,5,0,5"/>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </ListView.GroupStyle>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                    <GridViewColumn Header="Nombre" DisplayMemberBinding="{Binding Nombre}" Width="100"/>
+                    <GridViewColumn Header="Apellidos" DisplayMemberBinding="{Binding Apellidos}" Width="150"/>
+                    <GridViewColumn Header="Edad" DisplayMemberBinding="{Binding Edad}" Width="50"/>
+                    <GridViewColumn Header="Carrera" DisplayMemberBinding="{Binding Carrera.Nombre}" Width="200"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

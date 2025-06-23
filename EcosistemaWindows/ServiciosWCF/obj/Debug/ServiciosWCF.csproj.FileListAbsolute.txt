@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\bin\Debug\ServiciosWCF.dll.config
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\bin\Debug\ServiciosWCF.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\bin\Debug\ServiciosWCF.pdb
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\obj\Debug\ServiciosWCF.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\obj\Debug\ServiciosWCF.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\obj\Debug\ServiciosWCF.dll
+C:\Users\danie\Documents\Documentos UV\8vo_Semestre\Tecno\Ejercicios2doParcial\EcosistemaWindows\ServiciosWCF\obj\Debug\ServiciosWCF.pdb
